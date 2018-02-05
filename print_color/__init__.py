@@ -4,6 +4,7 @@ y_ = "\033[33m"
 b_ = "\033[34m"
 p_ = "\033[35m"
 c_ = "\033[36m"
+w_ = "\033[0m"
 
 def printr(farg, *args):
     args_list = list(args)
